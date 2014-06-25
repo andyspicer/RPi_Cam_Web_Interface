@@ -1,0 +1,1179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align:   (property)"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"form",
+				"-moz-transform:   (property)"
+			],
+			[
+				"max",
+				"max-width:   (property)"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"nav",
+				"nav-collapse"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"table",
+				"table-cell  (value)"
+			],
+			[
+				"typecsset-base",
+				"typecsset-base-line-height"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"backg",
+				"background-color:   (property)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"$jps",
+				"$jps-darkblue"
+			],
+			[
+				"last",
+				"last-of-type  (pseudo-class)"
+			],
+			[
+				"inl",
+				"inline-block  (value)"
+			],
+			[
+				"back",
+				"background-position:   (property)"
+			],
+			[
+				"singula",
+				"singularitygs"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"a",
+				"after  (pseudo-class)"
+			],
+			[
+				"word",
+				"break-word"
+			],
+			[
+				"brand",
+				"brand-face"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"Back",
+				"background-color"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"jps",
+				"jps-darkblue"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"entry",
+				"entry-title"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"background-pos",
+				"ms-background-position-x"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"site",
+				"site-containter"
+			],
+			[
+				"rgp-",
+				"rgp-sprites-phone-sm"
+			],
+			[
+				"rgp",
+				"rgp-sprites-phone-lg"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"gen",
+				"genesis_seo_title"
+			],
+			[
+				"genss",
+				"genesis_do_subnav"
+			],
+			[
+				"gene",
+				"genesis_header"
+			],
+			[
+				"remove",
+				"header_remove"
+			],
+			[
+				"top",
+				"top-slider"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"login",
+				"login-remember"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"Ba",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"re",
+				"repeat-x"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"subl",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"doc",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"colro",
+				"Color picker"
+			],
+			[
+				"cha",
+				"ChangeQuotes"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"chang",
+				"ChangeQuotes"
+			],
+			[
+				"quot",
+				"ChangeQuotes"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"pack upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack isn",
+				"Package Control: Install Package"
+			],
+			[
+				"sub in",
+				"SublimeGit: Install License"
+			],
+			[
+				"css",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"c",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git qu",
+				"Git: Quick Add"
+			],
+			[
+				"git ",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Show"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac li",
+				"Package Control: List Packages"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"gcom",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"pac re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"pack ",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pack ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"subli",
+				"Sublimerge: View Diff"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"dif",
+				"Sublimerge: View Diff"
+			],
+			[
+				"diff",
+				"Sublimerge: View Diff"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"gi",
+				"Gist: Create Public Gist"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"filezi",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"Sublimerge: View Diff"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"packaag",
+				"Package Control: List Packages"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"git --version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/7CE4BACA-BA9A-4406-ABBB-10B72B4BB88C/index.html",
+		"/Users/andyspicer/Development/Apps-Dev/karting/webcam-interface/www/index.html",
+		"/Users/andyspicer/.ssh/known_hosts",
+		"/Users/andyspicer/Desktop/raspiimage/startraspbian.sh",
+		"/Users/andyspicer/Desktop/raspiimage/convertdmgtoimg.sh",
+		"/Users/andyspicer/Desktop/currentsense.ino",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/styles/partials/_atty_bio.scss",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/attorney_bio-en.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/styles/variables/_rad-base-config.scss",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/layouts/global.below.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/layouts/global.above.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/attorney_bio-es.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/layouts/global.below.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/layouts/global.above.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/practice_listing.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/attorneys/index.php",
+		"/Users/andyspicer/Development/Sites-Temp/awsgulphtml/gulpfile.js",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/practice_bio.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/layouts/global.contact.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/gulpfile.js",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/old.htaccess",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/practice_detail.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/practice-areas/index.php",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/layouts/global.header.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/kscruntime.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/attorneys/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/contact/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/etcetera/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/blog/sections.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/blog/section.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/blog/rss.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/blog/post.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/blog/archive.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/blog/authors.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/blog/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/pages/default.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/src/library/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/.htaccess",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/en/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/en/practice-areas/index.php",
+		"/Users/andyspicer/Development/Apps-Dev/karting/webcam-interface/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/blog/home_list.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/en/contact/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_blog/templates/blog/author.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_blog/templates/blog/author_list.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_blog/templates/blog/post.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_blog/templates/blog/post_in_list.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_gallery/templates/gallery/a_album.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_gallery/templates/gallery/image.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/blog/listing.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/blog/post.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/secure_file.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/styles/partials/_contact.scss",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/styles/partials/_forms.scss",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/about/about_us.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_gallery/templates/gallery/b_static_list_image.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_gallery/templates/gallery/album.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/forms/contact.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/attorney_bio.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/pages/practice-list.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/pages/practice.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/en/attorneys/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/attorney_listing.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/en/practice-areas/index.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/content/attorney_bio.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/en/practice-areas/administrative-law.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/content/practice_detail.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/content/practice_listing.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/content/attorney_detail.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/dist/perch/templates/pages/practice-area-list.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/styles/partials/_nav.scss",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/styles/partials/_header.scss",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/styles/main.css.map",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/attorney_detail.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/en/attorneys.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/pages/attorney.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/attorney.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/content/attorney-intro.html",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/en/attorneys/download.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/templates/layouts/global.showall.php",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/styles/layout.scss",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/styles/base.scss",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/gulpfile.js",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/portfolio-item.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/portfolio.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/services-3.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/services.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/single-service.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/contact.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/index-3.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/index-2.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/blog.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/blog-post.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/about.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/styles/main.scss",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app/styles/partials/_shame.scss",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/package.json",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/bower.json",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/Vagrantfile",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app/perch/addons/apps/perch_blog/import_data/kahnsmithampcollinspa.wordpress.2014-04-08.xml",
+		"/opt/homebrew-cask/Caskroom/mailmate/latest/MailMate.app/Contents/Resources/KeyBindings/AWS.plist",
+		"/Users/andyspicer/Library/Application Support/KeyRemap4MacBook/private.xml",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/13724100-BDA2-4323-96E2-7EDEEDB2228B/front-page.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/0DE1C313-EA9B-4675-BC22-71E97545737D/functions.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/A1487C3A-2536-49F8-978F-5911D8D45A18/home.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/5C771C5C-5970-4966-86FE-5C64A202B184/page_blog.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/C0E5CE89-BA6F-44EA-8E8D-AEBE64733AD6/page_blogplus.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/F8A5269E-5A57-4A5E-88B4-43E5D2B97857/page_blogtest.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/B90A74CC-2216-4641-BC20-7662D1B48FCF/page_content.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/C9FA0D16-CFED-404A-880B-3F0901E6B377/page.php",
+		"/Users/andyspicer/Library/Caches/Cleanup At Startup/Transmit/0CEC13B0-FAE6-45D6-9F05-3568CC2EB6C5/single.php",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/puppet/hiera.yaml",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/puppet/manifests/hiera/config.yaml",
+		"/private/etc/hosts",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/emd.dev/index.html",
+		"/Users/andyspicer/Development/Sites-Dev/TFA Website/puppet/manifests/hiera/config.yaml",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/puppet/manifests/hiera/config.yaml",
+		"/Users/andyspicer/Development/Sites-Dev/KSC Website/Vagrantfile",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/emdhammer.dev/dentists.html",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/emdhammer.dev/services.html",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/emdhammer.dev/partials/_head.html",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/emdhammer.dev/partials/_call-to-action.html",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/emdhammer.dev/index.html",
+		"/Users/andyspicer/Development/Sites-Dev/EMD Website/emdhammer.dev/css/styles.scss"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app",
+			"<open files>",
+			"",
+			"~",
+			"*",
+			".",
+			"",
+			"/Users/andyspicer/Development/Sites-Dev/KSC Website/ksc.dev/app",
+			"<project>",
+			"",
+			"<open files>",
+			"~",
+			"*",
+			".",
+			"",
+			"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app,*.html",
+			"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app *.html",
+			"/Users/andyspicer/Development/Sites-Dev/TFA Website/tfa.dev/app",
+			"./",
+			"/",
+			"",
+			".",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev",
+			".",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev *.php",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev *.scss",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src, *.scss, *.hbs",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src/styles",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src/templates",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src/bower_components/breakpoint-sass/stylesheets",
+			"<project>",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src/styles",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src/",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/src/templates",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/, *.scss",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/styles/, *.scss",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev, *.scss",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/bower_components/inuit.css",
+			"<project>, *.scss",
+			"<project>",
+			".",
+			"plugin.js",
+			"<project>, *.scss",
+			"<project>",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev, *.scss",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/bower_components/inuit.css",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev,*.scss",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev",
+			"<project>,*.scss",
+			"<project>",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/styles",
+			"<open folders>",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/styles/**/*.*",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/styles*",
+			"<project>",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/styles/*",
+			"/Users/awsisme/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/app/styles",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev/scss",
+			"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev/scss",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development/Dev-Projects/Dev-Workflow-Projects/Yeoman_Generators/generator-rad-webapp",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev",
+			"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev/scss",
+			"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/icon-fonts",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development/Dev-Websites/www.kahnsmith.dev/wp-content/themes/prose",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/genesis",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass",
+			"/Users/awsisme/Dropbox/Development Docs/Code Examples/Web/bootstrap-master",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass/partials",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Desktop/event-espresso",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass/partials",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga/library/sass/partials",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga/library/sass",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga",
+			"/Users/awsisme/Dropbox/Development",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.bloodofthecrossgear.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.bloodofthecrossgear.dev/wp-content/plugins/woocommerce",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev/wp-content/themes/bones",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev/wp-content/themes/bones",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.trinityprotection.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.trinityprotection.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.trinityprotection.dev",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"640",
+			"grid-span",
+			"side-heading",
+			"heading",
+			"<span class=\"italic-heading\">",
+			"franklin-gothic-urw",
+			"src=\"/",
+			"replace",
+			"H",
+			"src=\"/",
+			"<?php perch_form('contact.html'); ?>",
+			"textile=\"true\"",
+			".box {",
+			"/*btn.btn-toolbar*/\n/* Boxes */\n.box {",
+			"images",
+			"box",
+			"attorney_bio",
+			"connect",
+			"perch",
+			"bundle",
+			"EWF",
+			"future",
+			"favicon",
+			"F11D1D",
+			"color",
+			"bx_loader.gif",
+			"_layout/js/magnificpopup/magnific-popup.css",
+			"_layout/js/bxslider/jquery.bxslider.css",
+			"_layout/js",
+			"scripts",
+			"assets",
+			"about",
+			"contact",
+			"Contact",
+			"contact",
+			"Contact",
+			"contact",
+			"Contact",
+			"contact",
+			"scheduling",
+			"contact",
+			".logo",
+			"root",
+			"<!-- build:",
+			"rs-default.png",
+			"rs",
+			"rs-default",
+			"rs-default.png",
+			"images/",
+			"images",
+			"ksc.png",
+			"<li",
+			"button-wrapper",
+			"<li><img src=\"\" alt=\"\"></li>",
+			"text-align",
+			"wiredep",
+			"modern",
+			"html",
+			"dist",
+			"port",
+			"run",
+			"grid",
+			"font",
+			"nav--stacked",
+			"menu-main-wrapper",
+			"nav-main",
+			"nav-main-menu",
+			"nav-main-wrapper",
+			"site-header",
+			"grid-toggle",
+			"<",
+			"(",
+			"':",
+			" !global;",
+			"!global;",
+			"// !global removed to compile with libsass / node-sass / gulp-sass",
+			"; // !global removed to compile with libsass / node-sass / gulp-sass",
+			"!global",
+			"map",
+			"nav-main-wrapper",
+			");\n",
+			".btn",
+			".lang-button",
+			".en",
+			".container",
+			"nav--stacked",
+			"../assets/",
+			"assets/",
+			".nav--stacked",
+			"clean-assembled",
+			", {\n        read: false\n    })",
+			"html {",
+			"222,201,182",
+			"222",
+			"$secondarycolor",
+			"$secondarycolor:",
+			"$secondarycolor",
+			"block",
+			"btn",
+			"line",
+			"html",
+			"html {",
+			"html",
+			".h4",
+			"small",
+			"margin",
+			"optimizelegibility;",
+			"text-rendering: optimizelegibility;",
+			"autoprefixer",
+			"copy",
+			"autoprefixer",
+			"compass",
+			"scss",
+			"copy",
+			"copy:styles",
+			"auto",
+			"copy",
+			"h2",
+			"typecsset",
+			"Typecsset",
+			"typecsset",
+			"Typecsset",
+			"typecsset",
+			"$typecsset-h6-size",
+			"h6, .h6",
+			"toggle",
+			"closed",
+			"collapse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"../",
+			"markdown=\"true\"",
+			"TFA",
+			"_layout/css/magnificpopup/magnific-popup.css",
+			"_layout/css/bxslider/jquery.bxslider.css",
+			"scheduling",
+			"../img/rs-default.png",
+			"main-menu-wrapper",
+			"main-nav",
+			"menu-main",
+			"nav-main",
+			";",
+			"; // !global removed to compile with libsass / node-sass / gulp-sass",
+			"// !global removed to compile with libsass / node-sass / gulp-sass",
+			"/assets/",
+			"../assets/",
+			"$base-line-height",
+			"'",
+			"$base-font-family",
+			"$base-font-size",
+			"$base-line-height",
+			"$bp",
+			"$bp1",
+			"/vendor",
+			"generator-rad-webapp",
+			"vimeo",
+			"chestnut.css",
+			"Andy Spicer",
+			"Site Name: www.razegroup.com\nAuthor: Andy Spicer",
+			"www.razegroup.dev",
+			"Copyright 2013 Trinity Protection Services",
+			"Suite 170",
+			"http://www.kahnsmith.dev/",
+			"http://www.kahnsmith.com/",
+			"<span class=\"Apple-tab-span\">	</span>",
+			"ENGINE=MyISAM"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 554.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 116.0
+	},
+	"output.git-push":
+	{
+		"height": 114.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"nav",
+				"styles/partials/_nav.scss"
+			],
+			[
+				"brand",
+				"styles/partials/_branding.scss"
+			],
+			[
+				"shame",
+				"src/styles/partials/_shame.scss"
+			],
+			[
+				"bubcustom",
+				"wp-content/themes/bubinga/stylesheets/custom.css"
+			],
+			[
+				"func",
+				"wp-content/themes/bubinga/functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"kscwebsite",
+				"~/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/@project-docs/Sublime Project/ksc-website.sublime-project"
+			],
+			[
+				"",
+				"~/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev/-project-docs/Sublime Project/jps.sublime-project"
+			],
+			[
+				"kscwebsitekscwebsite",
+				"~/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/@project-docs/Sublime Project/kscwebsite.sublime-project"
+			],
+			[
+				"www.ksc.dev kscwebsite",
+				"~/Dropbox/Razedigital/Clients/KSC/Websites/www.ksc.dev/@project-docs/Sublime Project/kscwebsite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 413.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
